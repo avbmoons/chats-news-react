@@ -1,0 +1,11 @@
+.Stuff-page {
+  max-height: 50vh;
+}
+
+.Stuff-heading {
+  color: #3f51b5;
+}
+
+.Stuff-loading {
+  margin: 10px auto;
+}

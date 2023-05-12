@@ -1,0 +1,11 @@
+.Stuff-list-box {
+  margin: 0 auto;
+  width: 90%;
+  height: 45vh;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  overflow-y: auto;
+}

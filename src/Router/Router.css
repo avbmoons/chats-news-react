@@ -1,0 +1,25 @@
+.Router-nav {
+  margin: 0;
+  /*width: 100%; */
+  /*width: 100vw;*/
+  display: flex;
+  justify-content: space-between;
+  background-color: #39364d;
+  /*border: 1px solid orange;*/
+}
+
+.Router-nav-item {
+  margin: 10px auto;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  color: orange;
+}
+
+.item {
+  margin: 0 auto;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  color: red;
+}

@@ -1,0 +1,30 @@
+.Message-box {
+  width: 70%;
+  background-color: #ccc;
+  border: 1px solid #e1e4ed;
+  border-radius: 10px;
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin: 7px auto;
+  color: black;
+}
+.Message-author {
+  width: 20%;
+  height: fit-content;
+  background: none;
+  color: brown;
+  font-style: italic;
+  border: none;
+  border-radius: 5px;
+}
+.Message-text {
+  width: 80%;
+  height: fit-content;
+  background: none;
+  color: black;
+  text-align: left;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}

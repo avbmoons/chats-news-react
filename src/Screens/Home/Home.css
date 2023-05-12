@@ -1,0 +1,45 @@
+.Home-heading {
+  color: blue;
+}
+
+.test-block {
+  width: 500px;
+  height: 500px;
+  border: 1px solid grey;
+  background-color: orange;
+}
+
+.Form-auth-block {
+  margin: 0 auto;
+  width: 60%;
+  height: 30vh;
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 5px;
+  /* background-color: orange; */
+}
+
+.Input-login {
+  margin: 10px auto;
+  width: 90%;
+  height: fit-content;
+  padding: 10px;
+}
+
+.Input-pass {
+  margin: 10px auto;
+  width: 90%;
+  height: fit-content;
+  padding: 10px;
+}
+
+/* .Signin-btn-box {
+  margin: 10px auto;
+} */
+
+.Signin-btn {
+  margin: 10px auto;
+  width: fit-content;
+}

@@ -1,0 +1,36 @@
+.Stuff-item-box {
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: #eee;
+  width: 45%;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.Stuff-item-title {
+  margin: 5px auto;
+  width: 90%;
+  font-weight: 500;
+}
+
+.Stuff-item-content {
+  margin: 5px auto;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  text-align: justify;
+}
+
+.Stuff-item-summary {
+  margin: 5px auto;
+  font-size: 14px;
+}
+
+.Stuff-item-url {
+  margin: 5px auto 5px 0;
+}
