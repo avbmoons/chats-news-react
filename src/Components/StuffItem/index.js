@@ -1,3 +1,3 @@
-import {StuffItem} from './StuffItem';
+import { StuffItem } from "./StuffItem";
 
-export {StuffItem};
+export { StuffItem };

@@ -1,3 +1,3 @@
 import { NoChats } from "./NoChats";
 
-export {NoChats};
+export { NoChats };

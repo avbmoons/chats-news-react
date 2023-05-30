@@ -1,3 +1,3 @@
-import {StuffList} from './StuffList';
+import { StuffList } from "./StuffList";
 
-export {StuffList};
+export { StuffList };

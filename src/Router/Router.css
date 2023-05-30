@@ -1,11 +1,8 @@
 .Router-nav {
   margin: 0;
-  /*width: 100%; */
-  /*width: 100vw;*/
   display: flex;
   justify-content: space-between;
   background-color: #39364d;
-  /*border: 1px solid orange;*/
 }
 
 .Router-nav-item {

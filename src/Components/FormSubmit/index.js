@@ -1,3 +1,3 @@
-import {FormSubmit} from './FormSubmit';
+import { FormSubmit } from "./FormSubmit";
 
-export {FormSubmit};
+export { FormSubmit };

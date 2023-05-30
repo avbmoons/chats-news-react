@@ -20,13 +20,10 @@ const theme=createTheme({
 });
 
 function App() {
-
   return (
     <Provider store={store}>
-    <PersistGate persistor={persistor}>
-    
-    <ThemeProvider theme={theme}>
-    
+    <PersistGate persistor={persistor}>    
+    <ThemeProvider theme={theme}>    
     <div className="App">
       <div className='App-top'>      
       <header className="App-header">
@@ -43,15 +40,10 @@ function App() {
       <footer className="App-footer">
       </footer>
     </div>
-
     </ThemeProvider>
     </PersistGate>      
-    </Provider> 
-         
-   
-       
+    </Provider>       
   );
 }
-
 export default App;
 

@@ -1,3 +1,3 @@
-import {PublicOutlet} from './PublicOutlet';
+import { PublicOutlet } from "./PublicOutlet";
 
-export {PublicOutlet};
+export { PublicOutlet };

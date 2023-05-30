@@ -1,3 +1,3 @@
-import {PrivateOutlet} from './PrivateOutlet';
+import { PrivateOutlet } from "./PrivateOutlet";
 
-export {PrivateOutlet};
+export { PrivateOutlet };
